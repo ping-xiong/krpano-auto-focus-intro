@@ -10,6 +10,7 @@ Allows you to play a series of auto-moving perspectives and display picture anim
 2. Javascript 代码动态生成和删除layer
 3. Krpano 过渡的应用
 4. Javascript 代码调用Krpano的函数
-5. 通过Javascript 实现点击任意地方获取坐标（按F1，在console中查看）
+5. 通过Javascript 实现点击任意地方获取坐标（按F12，在console中查看）
+6. Krpano xml语言中调用Javascript函数
 
 使用教程：https://pingxonline.com/2019/05/22/krpano-%E5%85%A8%E6%99%AF%E7%83%AD%E7%82%B9%E8%BD%AE%E6%92%AD%E5%BC%80%E5%9C%BA%E6%8F%92%E4%BB%B6-%E5%85%BC%E5%AE%B9%E5%B0%8F%E8%A1%8C%E6%98%9F%E5%BC%80%E5%9C%BA/
